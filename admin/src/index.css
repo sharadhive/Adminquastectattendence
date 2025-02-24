@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+.intro-section {
+  margin-bottom: 20px;
+}
+.search-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
